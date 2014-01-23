@@ -1,0 +1,17 @@
+DoctorsRating
+=============
+
+Doctor Rating is a J2EE project.
+
+Features:
+
+- Profile of Doctors and Patients
+- Login and Registration
+- Optimized search for Doctors on the basic of city and specialty
+- Mail API
+- Offline chat between doctors and patients
+
+Note:
+
+A few functionalities are still under test. 
+
